@@ -36,7 +36,7 @@
   {
     'captures':
       '1':
-        'name': 'storage.type.variable.ts'
+        'name': 'variable.type.ts'
     'comment': 'Match stuff like: super(argument, list)'
     'match': '(super)\\)'
     'name': 'keyword.other.ts'
